@@ -1,0 +1,24 @@
+_repo: The-Soul-of-a-Cat-and-Other-Stories_63168
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Benson, Margaret
+    alias: Benson, Maggie
+    birthdate: 1865
+    deathdate: 1916
+    gutenberg_agent_id: '51451'
+    url: http://www.gutenberg.org/2009/agents/51451
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Benson
+description: ''
+gutenberg_issued: '2020-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63168'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Soul of a Cat and Other Stories
+url: http://www.gutenberg.org/ebooks/63168
